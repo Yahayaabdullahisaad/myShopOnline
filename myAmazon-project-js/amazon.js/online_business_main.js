@@ -239,7 +239,7 @@ login_button.addEventListener('click',()=>{
 
 console.log('llll')
 /****___USER AGENT___****/
-let USER_AGENT=navigator.userAgent;
+let USER_AGENT=12345;
 
 for(let i=0; i<userImpormation.length;i++){
 
